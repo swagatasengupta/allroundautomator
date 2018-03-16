@@ -1,0 +1,2 @@
+[20180210193928]: This is the content to write into file.
+[20180210220123]: This is the content to write into file.
